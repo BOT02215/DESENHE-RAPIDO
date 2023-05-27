@@ -1,0 +1,20 @@
+body {
+    background-color: goldenrod;
+}
+
+#tempo {
+    margin-right: 20px;
+    float:right
+}
+
+#pontuação {
+    margin-left: 20px;
+}
+
+#esboço_a_ser_desenhado {
+    color: brown;
+}
+
+canvas {
+    margin-top: 120px;
+}
